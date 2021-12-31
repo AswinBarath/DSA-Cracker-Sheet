@@ -8,7 +8,7 @@ DSA Cracker Sheet - problem solving on data structures and algorithms
 
 ## Topics
 
-- Topics covered in DSA Cracker SHEET:
+- Topics covered in DSA Cracker SHEET with question count:
     - Array - 36 questions
     - Matrix - 10 questions
     - String - 43 questions
