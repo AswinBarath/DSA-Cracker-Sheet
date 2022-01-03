@@ -9,6 +9,7 @@ public class ArrayInput {
         System.out.println("Enter size of the array:");
         int n = in.nextInt();
         int[] a = new int[n];
+        System.out.println("Enter array elements:");
         for(int i=0; i<n; i++) {
             a[i] = in.nextInt();
         }
@@ -19,6 +20,7 @@ public class ArrayInput {
         System.out.println("Enter size of the array:");
         int size = input.nextInt();
         int[] array = new int[size];
+        System.out.println("Enter array elements:");
         for(int iterator=0; iterator<size; iterator++) {
             array[iterator] = input.nextInt();
         }

@@ -6,8 +6,6 @@ DSA Cracker Sheet - problem solving on data structures and algorithms
 
 ## [DSA Cracker Sheet Progress Tracker (Google Sheets)](https://docs.google.com/spreadsheets/d/1ud_Yq_UIxrEPGibZqnxKyu10AUa-gqMy/edit#gid=1025354533)
 
----
-
 ## Topics
 
 | Topics | Question count 
@@ -37,5 +35,13 @@ DSA Cracker Sheet - problem solving on data structures and algorithms
 - Applied **two pointers approach** for swapping at both ends, shrinking the window for each traversal
 - Applied **Iteration** and **Recursion** to reverse the array
 - Applied **Control flow**: *for, while* for loops and *if, switch* for decision making
+
+---
+
+### ✅ 2. Maximum and minimum of an array
+
+- Applied **Linear search** to find maximum and minimum in just one iteration
+- Applied **Iteration** and **Recursion** to find maximum and minimum in the array
+- Applied **Control flow**: *for* for loop and *if, switch* for decision making
 
 ---
